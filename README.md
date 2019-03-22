@@ -1,3 +1,8 @@
+# fcc-timestamp
+
+## About
+It is a microservice project as required by freecodecamp. This is built using the boilerplate from [this repo](https://github.com/freeCodeCamp/boilerplate-project-timestamp).
+
 ## API Project: Timestamp Microservice
 
 ### About Microservice :
